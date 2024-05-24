@@ -1,6 +1,6 @@
-# AraTar Corpus
+# AraTar
 
-Welcome to the AraTar corpus repository. AraTar is the first comprehensive corpus designed to support the fine-grained detection of Arabic hate speech targets. This task consists of two parts: Hate Type Detection (Task 1) and Hate Target Identification (Task 2). This corpus is annotated with hate types and hate targets, facilitating the development of multi-label classification methods for automatically detecting both the types and targets of hate speech.
+Welcome to the AraTar repository. AraTar is the first comprehensive corpus designed to support the fine-grained detection of Arabic hate speech targets. This task consists of two parts: Hate Type Detection (Task 1) and Hate Target Identification (Task 2). This corpus is annotated with hate types and hate targets, facilitating the development of multi-label classification methods for automatically detecting both the types and targets of hate speech.
 
 ## Corpus Overview
 
