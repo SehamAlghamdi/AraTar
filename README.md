@@ -16,10 +16,16 @@ To obtain the full AraTar corpus, including the tweets, please follow these step
 
 ## Significance of AraTar
 
+## Significance of AraTar
+
 The AraTar corpus addresses several limitations of previous Arabic hate speech detection efforts:
-- **Scale**: It provides a more extensive corpus for Arabic hate speech detection.
-- **Unified Annotation**: It offers consistent annotations across the corpus, unlike previous datasets that lacked unified annotation standards.
+
+- **Scale**: It provides a more extensive corpus for Arabic hate speech detection, significantly larger than existing datasets.
+- **Unified Annotation**: It offers consistent annotations across the corpus, with high Inter-Annotator Agreement (IAA).
 - **Design**: It overcomes the limitations of previous corpora, which were designed only for multiclass classification and often missed critical information.
+- **Comprehensive Coverage**: Unlike existing corpora that support only one type of hate or target, AraTar includes multiple types and targets of hate speech.
+- **Standard Labeling Scheme**: It introduces a standard labelling scheme for the types and targets of hate, which was previously absent in other datasets.
+- **Robust Schema**: AraTar is designed with a robust schema to handle all possible types of hate speech and targets, supporting multi-label classification approaches.
 
 ## Code and Experiments
 
