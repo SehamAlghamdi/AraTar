@@ -18,10 +18,6 @@ The AraTar corpus addresses several limitations of previous Arabic hate speech d
 
 You can find the code for our best experiment on AraTar for both tasks (Task 1 and Task 2), which involves fine-tuning language models, especially AraBERTv2-twitter.
 
-## Usage
-
-This corpus is intended for research purposes only. Please cite the relevant publications if you use AraTar in your work.
-
 ## Citation
 
 If you use the AraTar corpus in your research, please cite the following paper:
