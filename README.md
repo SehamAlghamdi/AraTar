@@ -1,22 +1,9 @@
 # AraTar
 
-Welcome to the AraTar repository. AraTar is the first comprehensive corpus designed to support the fine-grained detection of Arabic hate speech targets. This task consists of two parts: Hate Type Detection (Task 1) and Hate Target Identification (Task 2). This corpus is annotated with hate types and hate targets, facilitating the development of multi-label classification methods for automatically detecting both the types and targets of hate speech.
-
-## Corpus Overview
-
-- **Annotations**: The files in this repository contain the necessary labels for each data point in the AraTar corpus. These labels are essential for training and evaluation purposes.
-- **Data Availability**: Due to Twitter's policy, the actual tweets in the AraTar corpus cannot be made publicly available in this repository. To access the full corpus, including the tweets, please submit a request to the authors.
-
-## Requesting Full Corpus Access
-
-To obtain the full AraTar corpus, including the tweets, please follow these steps:
-1. Send an email to the authors at [seham.alghamdi@manchester.ac.uk](mailto:seham.alghamdi@manchester.ac.uk).
-2. Include your name, affiliation, and a brief description of your research project.
-3. Specify that you are requesting access to the AraTar corpus.
+Welcome to the AraTar repository. AraTar is the first comprehensive corpus designed to support the fine-grained detection of Arabic hate speech targets. AraTar consists of two tasks: Hate Type Detection task (Task 1) and Hate Target Identification task (Task 2). This corpus is annotated with hate types and hate targets, facilitating the development of multi-label classification methods for automatically detecting both the types and targets of hate speech.
 
 ## Significance of AraTar
 
-## Significance of AraTar
 
 The AraTar corpus addresses several limitations of previous Arabic hate speech detection efforts:
 
@@ -38,7 +25,17 @@ This corpus is intended for research purposes only. Please cite the relevant pub
 ## Citation
 
 If you use the AraTar corpus in your research, please cite the following paper:
-AraTar: A Corpus to Support the Fine-grained Detection of Hate Speech Targets in the Arabic Language
+[AraTar: A Corpus to Support the Fine-grained Detection of Hate Speech Targets in the Arabic Language](https://aclanthology.org/2024.osact-1.1/) (Alghamdi et al., OSACT 2024)
+
+**Data Availability**: Due to Twitter's policy, the actual tweets in the AraTar corpus cannot be made publicly available in this repository. To access the full corpus, including the tweets, please submit a request to the authors.
+
+## Requesting Full Corpus Access
+
+To obtain the full AraTar corpus, including the tweets, please follow these steps:
+1. Send an email to the authors at [seham.alghamdi@manchester.ac.uk](mailto:seham.alghamdi@manchester.ac.uk).
+2. Include your name, affiliation, and a brief description of your research project.
+3. Specify that you are requesting access to the AraTar corpus.
+
 
 ## Contact
 
